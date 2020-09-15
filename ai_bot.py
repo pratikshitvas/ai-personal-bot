@@ -1,5 +1,5 @@
 import wolframalpha
-client = wolframalpha.Client("8EW922-69283RTJKW")
+client = wolframalpha.Client("8EW922-69283RTJKW") //generate your own key this key is disabled
 
 import wikipedia
 
